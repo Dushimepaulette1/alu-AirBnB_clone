@@ -141,6 +141,5 @@ The recognizable commands by the interpreter are the following:
 
 ## Author
 
-1. Jacqueline Nyinawabagesera  
-2. Imanzi Kabisa Placide
-
+DUSHIME Paulette <p.dushime1@alustudent.com>
+Elise Julio Hakizimana <j.hakiziman1@alustudent.com>
